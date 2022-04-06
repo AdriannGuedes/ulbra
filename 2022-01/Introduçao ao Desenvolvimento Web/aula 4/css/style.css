@@ -1,0 +1,88 @@
+.tudo{
+   
+    border: solid #000;
+    
+}
+
+
+#tudoo{
+    text-align: center;
+    background-color: #E0FFFF ;
+    font-family: arial;
+    font-size: 18px;
+    border-radius: 10px;
+}
+
+.esquerda{
+    width: 30%;
+    height: 100px;
+    float: left;
+
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+    margin-left: 25%;
+    float: left;
+    
+}
+
+.direita{
+    width: 70%;
+    height: 100px;
+    float: left;
+    background-color: #E0FFFF;
+    font-size: 15px;
+}
+
+.unica{
+    background-color: #E0FFFF;
+    height: 100px;
+    width: 100%;
+    float: left;
+    border: solid #000;
+    
+    
+    
+    
+}
+
+.linha{
+    clear: both;
+}
+
+.hab{
+    background-color: #E0FFFF;
+    float: left ;
+    width: 50%;
+    border: solid #000;
+}
+
+#direita{
+    float: left;
+    width: 50%;
+    height: 200px;
+    
+    
+
+
+
+}
+
+    
+
+
+
+
+
+    
+
+
+   
+
+
+
+    
+        
