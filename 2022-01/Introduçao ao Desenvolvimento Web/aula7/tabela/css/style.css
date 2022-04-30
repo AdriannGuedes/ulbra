@@ -1,0 +1,175 @@
+*{
+   margin: 0 auto;
+}
+a, a:link, a:hover, a:visited{
+    text-decoration: none;
+    color: #ffffff;
+
+}
+body{
+    background-color: #e2e2e2;
+}
+.divTudo{
+    font-size: arial;
+}
+.divLinha{
+    clear: both;
+    
+}
+.h2TituloSessao{
+    margin: 10px, 0px, 10px, 10px;
+    font-size: 20px;
+}
+table, td, th{
+    border-bottom: solid 1px #e2e2e2;
+    border-collapse: collapse;
+    padding: 7px, 7px, 7px, 7px;
+}
+th{
+    color: darkgray;
+    font-weight: normal;
+    font-size: 14px;
+    text-align: center;
+}
+td{
+    text-align: center;
+    font-size: 14px;
+}
+imgClube{
+    width: 20px;
+    height: 20px;
+}
+/*Estilos do Cabeçalho geral*/
+#divCabecalho{
+    background-color: #162E58;
+    min-height: 100px;
+    padding: 30px, 50px, 10px, 50px;
+    position: relative;
+}
+#h1TituloCabecalho{
+    color: #ffffff;
+    text-align: left;
+    float: left;
+    min-width: 50%;
+    font-size: 16px;
+}
+.divMenu{
+    position: absolute;
+    width: 100%;
+    clear: both;
+    bottom: 0;
+    text-align: center;
+    padding-left: 21%;
+    padding-right: 21%;
+}
+.itemMenu{
+    float: left;
+    text-align: center;
+    color: #ffffff;
+    width: 12.5%;
+    height:40;
+}
+.itemMenu:hover{
+    background-color: black;
+}
+/*Estilos Classificação*/
+#divClassificacao{
+    width: 50%;
+}
+#tableClassificacao{
+    width: 100%;
+    background-color: #ffffff;
+}
+.h3TituloGrupo{
+    font-size: 14px;
+    padding: 5px 5px 5px 5px;
+}
+.thNomeClube{
+    width: 50%;
+}
+.tdNomeClube{
+    text-align: left;
+}
+.tdPosicao{
+    width: 3%;
+    font-size: 14px;
+}
+.tdImgClube{
+    width: 5%;
+}
+.thUltimas{
+   width: 20%;
+}
+.divEmp{
+    background-image: url("../img/e.svg");
+    background-repeat: no-repeat;
+    height: 16px;
+    width: 16px;
+    float: right;
+    margin-right: 5px;
+}
+.divDer{
+    background-image: url("../img/d.svg");
+    background-repeat: no-repeat;
+    height: 16px;
+    width: 16px;
+    float: right;
+    margin-right: 5px;
+}
+.divVit{
+    background-image: url("../img/v.svg");
+    background-repeat: no-repeat;
+    height: 16px;
+    width: 16px;
+    float: right;
+    margin-right: 5px;
+}
+/*Estilos Goleadores*/
+#divGoleadores{
+    width: 50%;
+}
+#tableGoleadores{
+    width: 100%;
+    background-color: #ffffff;
+}
+#tableGoleadores td{
+    padding: 20px 10px 10px 10px;
+}
+.tdJogador{
+    text-align: left;
+    width: 90%;
+}
+.spanNomeClube{
+    color: darkgray;
+    font-size: 12px;
+}
+/*Estilos de Jogos*/
+#divJogos{
+    width: 50%;
+    padding-bottom: 50px;
+}
+#tableJogos{
+    width: 100%;
+    background-color: #ffffff;
+}
+#tableJogos .tdTableJogos{
+    padding: 10px 10px 10px 10px;
+}
+#tableJogos .tableJogo{
+    width: 100%;
+}
+/*Estilo da tabela da casa jogo*/
+.tableJogo .thTableJogo{
+    text-align: left;
+}
+.tableJogo .tdClube{
+    text-align: left;
+    width: 80%;
+}
+.tableJogo .tdHorario{
+    text-align: center;
+    font-size: 10px;
+}
+#tableJogos th, #tableJogos td{
+    border-bottom: 0px;
+}
