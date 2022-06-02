@@ -1,3 +1,16 @@
+
+//ativ1
+var nome = "joao";
+imprimir(nome);
+
+var numero = 123456;
+imprimir(numero);
+
+function imprimir(valor) {
+    console.log(`o conteudo é ${valor} e o tipo é ${typeof (valor)}`);
+}
+ 
+//ativ5
  var mediaAritmetica=0;
  var primeironumero=3;
  console.log("primeiro numero:" +primeironumero);
@@ -11,6 +24,7 @@
  mediaAritmetica= (primeironumero+segundonumero+terceironumero)/3;
  console.log("A media e:" +mediaAritmetica);
 
+ //ativ6
  console.log("Simule as notas de um aluno da Ulbra, AP1, AP2, AS e media final:");
  var mediafinal=0;
 
@@ -26,6 +40,7 @@
  mediafinal=ap1+ap2+as;
  console.log("A media final e:" +mediafinal);
 
+ //ativ7
  console.log("Informe o nome e a idade de uma pessoa e imprima se esta pessoa é maior ou menor de idade");
  var nome="Adrian";
  console.log("O nome é:" +nome);
@@ -40,6 +55,7 @@
      console.log("Você é menor de idade");
  }
 
+ //ativ8
  console.log("Informe 3 numeros e mostre qual é o maior");
  var n1=10;
  console.log("O primeiro número é:" +n1);
