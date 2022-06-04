@@ -1,0 +1,20 @@
+
+.header{
+    background-image:
+    url('../img/cidade2.jpg'),
+    url('../img/cidade.jpg');
+    background-repeat: no-repeat,
+    no-repeat;
+    background-position: top right,
+    top left;
+    background-size: 50% 100%,
+    50% 100%;
+}
+h2{
+    color: rgb(255, 255, 255);
+}
+.article{
+    background-image: url(../img/imagem\ fundo\ Vegas.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
