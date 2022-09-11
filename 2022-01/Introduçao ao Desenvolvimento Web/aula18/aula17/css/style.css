@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(18, 61, 16);
+}
+
+.nav-link{
+    color: rgb(97, 112, 87);
+}
+.nav-link:hover{
+    color: black;
+}
+.p-2{
+    color: rgb(97, 112, 87);
+}
