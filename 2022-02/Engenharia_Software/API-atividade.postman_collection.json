@@ -1,0 +1,201 @@
+{
+	"info": {
+		"_postman_id": "6985f16b-dc7a-430d-8295-90e64cd890f4",
+		"name": "API-atividade",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "23970265"
+	},
+	"item": [
+		{
+			"name": "API-TesteSaudeAPI",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Código do Status deve ser 200\", function(){\r",
+							"    pm.response.to.have.status(200);\r",
+							"})"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://boredapi.com/api/",
+					"protocol": "http",
+					"host": [
+						"boredapi",
+						"com"
+					],
+					"path": [
+						"api",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "API-TesteDeSaúdeDeAtividade",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"O Código de status deve ser 200\", function(){\r",
+							"    pm.response.to.have.status(200);\r",
+							"})"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://boredapi.com/api/activity/",
+					"protocol": "http",
+					"host": [
+						"boredapi",
+						"com"
+					],
+					"path": [
+						"api",
+						"activity",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "API-AtividadeComFiltroDePreço",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"O preço deve ser 0\", function(){\r",
+							"    let respostaJson=pm.response.json();\r",
+							"    pm.expect(respostaJson.price).to.eql(0);\r",
+							"})"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://boredapi.com/api/activity?price=0",
+					"protocol": "http",
+					"host": [
+						"boredapi",
+						"com"
+					],
+					"path": [
+						"api",
+						"activity"
+					],
+					"query": [
+						{
+							"key": "price",
+							"value": "0"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "API-AtividadeComFltroDeTipo",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"O tipo de atividade deve ser educacional\", function(){\r",
+							"    let respostaJson=pm.response.json();\r",
+							"    pm.expect(respostaJson.type).to.eql(\"education\");\r",
+							"})"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://boredapi.com/api/activity?type=education",
+					"protocol": "http",
+					"host": [
+						"boredapi",
+						"com"
+					],
+					"path": [
+						"api",
+						"activity"
+					],
+					"query": [
+						{
+							"key": "type",
+							"value": "education"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "API-TesteAtividadeRecriacional",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"O tipo deve ser recriacional\", function(){\r",
+							"    let json=pm.response.json();\r",
+							"    pm.expect(json.type).to.eql(\"recreational\")\r",
+							"})\r",
+							"\r",
+							"pm.test(\"O código do Status deve ser 200\", function(){\r",
+							"    pm.response.to.have.status(200)\r",
+							"})"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://boredapi.com/api/activity?type=recriational",
+					"protocol": "http",
+					"host": [
+						"boredapi",
+						"com"
+					],
+					"path": [
+						"api",
+						"activity"
+					],
+					"query": [
+						{
+							"key": "type",
+							"value": "recriational"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
