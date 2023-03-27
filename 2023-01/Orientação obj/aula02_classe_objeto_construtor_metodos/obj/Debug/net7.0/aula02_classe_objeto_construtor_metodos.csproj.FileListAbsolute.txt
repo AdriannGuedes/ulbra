@@ -1,0 +1,15 @@
+C:\Users\55519\Desktop\2023-01\Orientação obj\aula02_classe_objeto_construtor_metodos\bin\Debug\net7.0\aula02_classe_objeto_construtor_metodos.exe
+C:\Users\55519\Desktop\2023-01\Orientação obj\aula02_classe_objeto_construtor_metodos\bin\Debug\net7.0\aula02_classe_objeto_construtor_metodos.deps.json
+C:\Users\55519\Desktop\2023-01\Orientação obj\aula02_classe_objeto_construtor_metodos\bin\Debug\net7.0\aula02_classe_objeto_construtor_metodos.runtimeconfig.json
+C:\Users\55519\Desktop\2023-01\Orientação obj\aula02_classe_objeto_construtor_metodos\bin\Debug\net7.0\aula02_classe_objeto_construtor_metodos.dll
+C:\Users\55519\Desktop\2023-01\Orientação obj\aula02_classe_objeto_construtor_metodos\bin\Debug\net7.0\aula02_classe_objeto_construtor_metodos.pdb
+C:\Users\55519\Desktop\2023-01\Orientação obj\aula02_classe_objeto_construtor_metodos\obj\Debug\net7.0\aula02_classe_objeto_construtor_metodos.csproj.AssemblyReference.cache
+C:\Users\55519\Desktop\2023-01\Orientação obj\aula02_classe_objeto_construtor_metodos\obj\Debug\net7.0\aula02_classe_objeto_construtor_metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55519\Desktop\2023-01\Orientação obj\aula02_classe_objeto_construtor_metodos\obj\Debug\net7.0\aula02_classe_objeto_construtor_metodos.AssemblyInfoInputs.cache
+C:\Users\55519\Desktop\2023-01\Orientação obj\aula02_classe_objeto_construtor_metodos\obj\Debug\net7.0\aula02_classe_objeto_construtor_metodos.AssemblyInfo.cs
+C:\Users\55519\Desktop\2023-01\Orientação obj\aula02_classe_objeto_construtor_metodos\obj\Debug\net7.0\aula02_classe_objeto_construtor_metodos.csproj.CoreCompileInputs.cache
+C:\Users\55519\Desktop\2023-01\Orientação obj\aula02_classe_objeto_construtor_metodos\obj\Debug\net7.0\aula02_classe_objeto_construtor_metodos.dll
+C:\Users\55519\Desktop\2023-01\Orientação obj\aula02_classe_objeto_construtor_metodos\obj\Debug\net7.0\refint\aula02_classe_objeto_construtor_metodos.dll
+C:\Users\55519\Desktop\2023-01\Orientação obj\aula02_classe_objeto_construtor_metodos\obj\Debug\net7.0\aula02_classe_objeto_construtor_metodos.pdb
+C:\Users\55519\Desktop\2023-01\Orientação obj\aula02_classe_objeto_construtor_metodos\obj\Debug\net7.0\aula02_classe_objeto_construtor_metodos.genruntimeconfig.cache
+C:\Users\55519\Desktop\2023-01\Orientação obj\aula02_classe_objeto_construtor_metodos\obj\Debug\net7.0\ref\aula02_classe_objeto_construtor_metodos.dll

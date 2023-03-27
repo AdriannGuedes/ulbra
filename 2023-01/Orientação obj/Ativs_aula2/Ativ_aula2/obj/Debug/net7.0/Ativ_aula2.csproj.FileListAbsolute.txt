@@ -1,0 +1,15 @@
+C:\Users\55519\Desktop\2023-01\Orientação obj\Ativs_aula2\Ativ_aula2\bin\Debug\net7.0\Ativ_aula2.exe
+C:\Users\55519\Desktop\2023-01\Orientação obj\Ativs_aula2\Ativ_aula2\bin\Debug\net7.0\Ativ_aula2.deps.json
+C:\Users\55519\Desktop\2023-01\Orientação obj\Ativs_aula2\Ativ_aula2\bin\Debug\net7.0\Ativ_aula2.runtimeconfig.json
+C:\Users\55519\Desktop\2023-01\Orientação obj\Ativs_aula2\Ativ_aula2\bin\Debug\net7.0\Ativ_aula2.dll
+C:\Users\55519\Desktop\2023-01\Orientação obj\Ativs_aula2\Ativ_aula2\bin\Debug\net7.0\Ativ_aula2.pdb
+C:\Users\55519\Desktop\2023-01\Orientação obj\Ativs_aula2\Ativ_aula2\obj\Debug\net7.0\Ativ_aula2.csproj.AssemblyReference.cache
+C:\Users\55519\Desktop\2023-01\Orientação obj\Ativs_aula2\Ativ_aula2\obj\Debug\net7.0\Ativ_aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55519\Desktop\2023-01\Orientação obj\Ativs_aula2\Ativ_aula2\obj\Debug\net7.0\Ativ_aula2.AssemblyInfoInputs.cache
+C:\Users\55519\Desktop\2023-01\Orientação obj\Ativs_aula2\Ativ_aula2\obj\Debug\net7.0\Ativ_aula2.AssemblyInfo.cs
+C:\Users\55519\Desktop\2023-01\Orientação obj\Ativs_aula2\Ativ_aula2\obj\Debug\net7.0\Ativ_aula2.csproj.CoreCompileInputs.cache
+C:\Users\55519\Desktop\2023-01\Orientação obj\Ativs_aula2\Ativ_aula2\obj\Debug\net7.0\Ativ_aula2.dll
+C:\Users\55519\Desktop\2023-01\Orientação obj\Ativs_aula2\Ativ_aula2\obj\Debug\net7.0\refint\Ativ_aula2.dll
+C:\Users\55519\Desktop\2023-01\Orientação obj\Ativs_aula2\Ativ_aula2\obj\Debug\net7.0\Ativ_aula2.pdb
+C:\Users\55519\Desktop\2023-01\Orientação obj\Ativs_aula2\Ativ_aula2\obj\Debug\net7.0\Ativ_aula2.genruntimeconfig.cache
+C:\Users\55519\Desktop\2023-01\Orientação obj\Ativs_aula2\Ativ_aula2\obj\Debug\net7.0\ref\Ativ_aula2.dll
