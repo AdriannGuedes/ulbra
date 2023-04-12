@@ -1,0 +1,15 @@
+C:\Users\55519\Desktop\2023-01\Orientação obj\Ap1_Estacionamento\bin\Debug\net7.0\Ap1_Estacionamento.exe
+C:\Users\55519\Desktop\2023-01\Orientação obj\Ap1_Estacionamento\bin\Debug\net7.0\Ap1_Estacionamento.deps.json
+C:\Users\55519\Desktop\2023-01\Orientação obj\Ap1_Estacionamento\bin\Debug\net7.0\Ap1_Estacionamento.runtimeconfig.json
+C:\Users\55519\Desktop\2023-01\Orientação obj\Ap1_Estacionamento\bin\Debug\net7.0\Ap1_Estacionamento.dll
+C:\Users\55519\Desktop\2023-01\Orientação obj\Ap1_Estacionamento\bin\Debug\net7.0\Ap1_Estacionamento.pdb
+C:\Users\55519\Desktop\2023-01\Orientação obj\Ap1_Estacionamento\obj\Debug\net7.0\Ap1_Estacionamento.csproj.AssemblyReference.cache
+C:\Users\55519\Desktop\2023-01\Orientação obj\Ap1_Estacionamento\obj\Debug\net7.0\Ap1_Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55519\Desktop\2023-01\Orientação obj\Ap1_Estacionamento\obj\Debug\net7.0\Ap1_Estacionamento.AssemblyInfoInputs.cache
+C:\Users\55519\Desktop\2023-01\Orientação obj\Ap1_Estacionamento\obj\Debug\net7.0\Ap1_Estacionamento.AssemblyInfo.cs
+C:\Users\55519\Desktop\2023-01\Orientação obj\Ap1_Estacionamento\obj\Debug\net7.0\Ap1_Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\55519\Desktop\2023-01\Orientação obj\Ap1_Estacionamento\obj\Debug\net7.0\Ap1_Estacionamento.dll
+C:\Users\55519\Desktop\2023-01\Orientação obj\Ap1_Estacionamento\obj\Debug\net7.0\refint\Ap1_Estacionamento.dll
+C:\Users\55519\Desktop\2023-01\Orientação obj\Ap1_Estacionamento\obj\Debug\net7.0\Ap1_Estacionamento.pdb
+C:\Users\55519\Desktop\2023-01\Orientação obj\Ap1_Estacionamento\obj\Debug\net7.0\Ap1_Estacionamento.genruntimeconfig.cache
+C:\Users\55519\Desktop\2023-01\Orientação obj\Ap1_Estacionamento\obj\Debug\net7.0\ref\Ap1_Estacionamento.dll
