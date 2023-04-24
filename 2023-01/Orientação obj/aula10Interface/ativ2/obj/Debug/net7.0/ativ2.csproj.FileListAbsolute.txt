@@ -1,0 +1,15 @@
+C:\Users\55519\Desktop\2023-01\Orientação obj\aula10Interface\ativ2\bin\Debug\net7.0\ativ2.exe
+C:\Users\55519\Desktop\2023-01\Orientação obj\aula10Interface\ativ2\bin\Debug\net7.0\ativ2.deps.json
+C:\Users\55519\Desktop\2023-01\Orientação obj\aula10Interface\ativ2\bin\Debug\net7.0\ativ2.runtimeconfig.json
+C:\Users\55519\Desktop\2023-01\Orientação obj\aula10Interface\ativ2\bin\Debug\net7.0\ativ2.dll
+C:\Users\55519\Desktop\2023-01\Orientação obj\aula10Interface\ativ2\bin\Debug\net7.0\ativ2.pdb
+C:\Users\55519\Desktop\2023-01\Orientação obj\aula10Interface\ativ2\obj\Debug\net7.0\ativ2.csproj.AssemblyReference.cache
+C:\Users\55519\Desktop\2023-01\Orientação obj\aula10Interface\ativ2\obj\Debug\net7.0\ativ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55519\Desktop\2023-01\Orientação obj\aula10Interface\ativ2\obj\Debug\net7.0\ativ2.AssemblyInfoInputs.cache
+C:\Users\55519\Desktop\2023-01\Orientação obj\aula10Interface\ativ2\obj\Debug\net7.0\ativ2.AssemblyInfo.cs
+C:\Users\55519\Desktop\2023-01\Orientação obj\aula10Interface\ativ2\obj\Debug\net7.0\ativ2.csproj.CoreCompileInputs.cache
+C:\Users\55519\Desktop\2023-01\Orientação obj\aula10Interface\ativ2\obj\Debug\net7.0\ativ2.dll
+C:\Users\55519\Desktop\2023-01\Orientação obj\aula10Interface\ativ2\obj\Debug\net7.0\refint\ativ2.dll
+C:\Users\55519\Desktop\2023-01\Orientação obj\aula10Interface\ativ2\obj\Debug\net7.0\ativ2.pdb
+C:\Users\55519\Desktop\2023-01\Orientação obj\aula10Interface\ativ2\obj\Debug\net7.0\ativ2.genruntimeconfig.cache
+C:\Users\55519\Desktop\2023-01\Orientação obj\aula10Interface\ativ2\obj\Debug\net7.0\ref\ativ2.dll
