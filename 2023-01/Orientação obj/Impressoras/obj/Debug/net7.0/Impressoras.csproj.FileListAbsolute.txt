@@ -1,0 +1,15 @@
+C:\Users\55519\Desktop\2023-01\Orientação obj\Impressoras\bin\Debug\net7.0\Impressoras.exe
+C:\Users\55519\Desktop\2023-01\Orientação obj\Impressoras\bin\Debug\net7.0\Impressoras.deps.json
+C:\Users\55519\Desktop\2023-01\Orientação obj\Impressoras\bin\Debug\net7.0\Impressoras.runtimeconfig.json
+C:\Users\55519\Desktop\2023-01\Orientação obj\Impressoras\bin\Debug\net7.0\Impressoras.dll
+C:\Users\55519\Desktop\2023-01\Orientação obj\Impressoras\bin\Debug\net7.0\Impressoras.pdb
+C:\Users\55519\Desktop\2023-01\Orientação obj\Impressoras\obj\Debug\net7.0\Impressoras.csproj.AssemblyReference.cache
+C:\Users\55519\Desktop\2023-01\Orientação obj\Impressoras\obj\Debug\net7.0\Impressoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55519\Desktop\2023-01\Orientação obj\Impressoras\obj\Debug\net7.0\Impressoras.AssemblyInfoInputs.cache
+C:\Users\55519\Desktop\2023-01\Orientação obj\Impressoras\obj\Debug\net7.0\Impressoras.AssemblyInfo.cs
+C:\Users\55519\Desktop\2023-01\Orientação obj\Impressoras\obj\Debug\net7.0\Impressoras.csproj.CoreCompileInputs.cache
+C:\Users\55519\Desktop\2023-01\Orientação obj\Impressoras\obj\Debug\net7.0\Impressoras.dll
+C:\Users\55519\Desktop\2023-01\Orientação obj\Impressoras\obj\Debug\net7.0\refint\Impressoras.dll
+C:\Users\55519\Desktop\2023-01\Orientação obj\Impressoras\obj\Debug\net7.0\Impressoras.pdb
+C:\Users\55519\Desktop\2023-01\Orientação obj\Impressoras\obj\Debug\net7.0\Impressoras.genruntimeconfig.cache
+C:\Users\55519\Desktop\2023-01\Orientação obj\Impressoras\obj\Debug\net7.0\ref\Impressoras.dll
