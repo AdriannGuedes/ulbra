@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 03</title>
+    <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+<body onload="carregar()">
+    <header>
+        <nav>
+            <ul>
+                <li><a id="home">Home</a></li>
+                <li><a id="sobre">Sobre</a></li>
+                <li><a id="contato">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main id="main">
+
+    </main>
+
+    <script src="./assets/js/script.js"></script>
+</body>
+</html>
+
+<script>
+    // const pessoa = {
+    //     nome: "Adrian",
+    //     email: "adrian@gmail.com",
+    //     mostrarDados: function(){
+    //        console.log( `Olá seu nome é ${this.nome} e seu email é ${this.email}`)
+    //     }
+    // }
+
+    // const pessoa = new Object();
+    // pessoa.nome = "Adrian";
+    // pessoa.email = "adrian902@gmail.com";
+    // pessoa.telefone = 51998403352
+
+    class Pessoa{
+        constructor(nome, telefone){
+            this.nome = nome;
+            this.telefone = telefone;
+        }
+    }
+    const pessoa1 = new Pessoa("Adrian", 4444444); 
+    const pessoa2 = new Pessoa("Alisson", 5555555); 
+
+    
+</script>

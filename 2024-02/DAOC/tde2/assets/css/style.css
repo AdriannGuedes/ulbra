@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: black;
+    color: white;
+    padding: 16px 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul{
+    list-style: none;
+}
+
+header img{
+    width: 60px;
+    height: 50px;
+    
+}
+
+.search{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+nav ul{
+    display: flex;
+    gap: 16px;
+}
+
+nav li, header h2{
+    font-size: 17.6px;
+    font-weight: bold;
+}
+
+section img{
+    height: 500;
+    width: 40%;
+}
+
+main{
+    padding: 2% 10%;
+
+}
+
+#more-photos{
+    display: none;
+}
