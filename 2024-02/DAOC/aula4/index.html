@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SPA - Formulário de Contato</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <div id="menu">
+    <a href="#" data-page="home">Home</a>
+    <a href="#" data-page="contato">Contato</a>
+    <a href="#" data-page="sobre">Sobre</a>
+  </div>
+
+  <div id="content">
+    <!-- Tela de Home -->
+    <div id="home" class="page">
+      <h2>Bem-vindo à Página Inicial!</h2>
+      <p>Esta é a tela de Home.</p>
+    </div>
+
+    <!-- Tela de Contato -->
+    <div id="contato" class="page">
+      <h2>Formulário de Contato</h2>
+      <form id="contactForm">
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" required><br><br>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" required><br><br>
+
+        <label for="telefone">Telefone:</label>
+        <input type="tel" id="telefone" required><br><br>
+
+        <button type="submit">Enviar</button>
+      </form>
+
+      <h3>Dados Submetidos</h3>
+      <table id="tableContact" style="display:none;">
+        <thead>
+          <tr>
+            <th>Nome</th>
+            <th>Email</th>
+            <th>Telefone</th>
+          </tr>
+        </thead>
+        <tbody id="contactBody">
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Tela de Sobre -->
+    <div id="sobre" class="page">
+      <h2>Sobre Nós</h2>
+      <p>Esta é a tela de Sobre.</p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
