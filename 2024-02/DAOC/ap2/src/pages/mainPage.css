@@ -1,0 +1,12 @@
+.card-list {
+
+    display: flex;
+    /* Define o contêiner como flexível */
+    flex-wrap: wrap;
+    /* Permite que os cards se movam para a linha seguinte */
+    justify-content: center;
+    /* Centraliza os cards horizontalmente */
+    gap: 1px;
+    /* Espaçamento entre os cards */
+
+}

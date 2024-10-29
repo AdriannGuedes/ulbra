@@ -1,0 +1,51 @@
+.inicio{
+   text-align: center;
+}
+
+button {
+    background-color: #4da6ff;
+    /* Azul claro */
+    color: rgb(10, 10, 10);
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button:hover {
+    background-color: #3399ff;
+    transform: scale(1.05);
+}
+
+button:active {
+    background-color: #2675bf;
+    transform: scale(0.98);
+}
+
+
+
+.localizacao-container {
+    background-color: #989898;
+    padding: 15px; 
+    border-radius: 20px; 
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10px;
+    max-width: 600px;
+
+}
+
+.localizacao-info {
+    display: flex; 
+    flex-wrap: wrap; 
+    gap: 20px;
+    justify-content: center;
+}
+
+.localizacao-info p {
+    margin: 0; 
+    font-size: 1em; 
+}
